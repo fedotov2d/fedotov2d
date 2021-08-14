@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ruby on Rails developer with good expertise also in Clojure and some experience with Elixir.
+
 <!--
 **dimafedotov/dimafedotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
