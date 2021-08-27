@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Ruby on Rails developer with good expertise in Clojure and some experience with Elixir.
+I'm also currently interested in the .NET platform, C# and F# languages,
+in implementation of Clojure for the CLR and everything related to this platform - Unity, Xamarin and etc.
 
 <!--
 **dimafedotov/dimafedotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
