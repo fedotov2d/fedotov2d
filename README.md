@@ -1,8 +1,8 @@
 ### Dratuti (Hi there) 👋
 
 💎 I'm Ruby on Rails developer for ten years.<br>
-✨ Have production expirience with Erlanf and Elixir.<br>
-🍵 Interested in custom Clojure implementation like Clojure for the CLR.<br>
+✨ Have production expirience with Erlang and Elixir.<br>
+🍵 Interested in custom Clojure implementations like Clojure for the CLR.<br>
 🧬 In his spare time studying .NET platform, C# and F# languages, Unity and Xamarin.<br>
 🔬 I'm also interested in pure functional languages, like Haskell, Elm and PureScript.<br>
 
