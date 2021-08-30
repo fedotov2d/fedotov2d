@@ -1,20 +1,11 @@
-### Hi there 👋
+### Dratuti (Hi there) 👋
 
-I'm Ruby on Rails developer with good expertise in Clojure and some experience with Elixir.
-I'm also currently interested in the .NET platform, C# and F# languages,
-in implementation of Clojure for the CLR and everything related to this platform - Unity, Xamarin and etc.
+💎 I'm Ruby on Rails developer for ten years.<br>
+✨ Have production expirience with Erlanf and Elixir.<br>
+🍵 Interested in custom Clojure implementation like Clojure for the CLR.<br>
+🧬 In his spare time studying .NET platform, C# and F# languages, Unity and Xamarin.<br>
+🔬 I'm also interested in pure functional languages, like Haskell, Elm and PureScript.<br>
 
 <!--
 **dimafedotov/dimafedotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
