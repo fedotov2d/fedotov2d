@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💎 I'm Ruby on Rails developer since 2011.<br>
+💎 I'm Ruby on Rails developer since 2012.<br>
 🌕 Several years of production expirience with full-stack Clojure.<br>
 ✨ Have production expirience with Erlang and Elixir.<br>
 🍵 Interested in custom Clojure implementations like Clojure for CLR.<br>
