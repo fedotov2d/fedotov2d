@@ -2,7 +2,7 @@
 🌕 Several years of production expirience with full-stack Clojure.<br>
 ✨ Have production expirience with Erlang and Elixir.<br>
 🍵 Interested in custom Clojure implementations like Clojure for CLR.<br>
-🧬 In my spare time studying .NET platform, C# and F#, ASP.NET, Unity and Xamarin.<br>
+🧬 In my spare time studying C++ in context of 3D and CGI.<br>
 🔬 I'm also interested in pure functional languages, like Haskell, Elm and PureScript.<br>
 
 <!--
