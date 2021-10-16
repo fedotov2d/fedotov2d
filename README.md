@@ -1,4 +1,4 @@
-🥷 I'm Ruby on Rails developer since 2012.<br>
+🥷 Ruby on Rails developer since 2012.<br>
 🌕 Several years of production expirience with full-stack Clojure.<br>
 ☎️ Have production expirience with Erlang and Elixir.<br>
 ❤️ Interested in custom Clojure implementations like my [GoodHeart](https://github.com/dimafedotov/goodheart).<br>
